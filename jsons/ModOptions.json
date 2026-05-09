@@ -5,6 +5,6 @@
     "maxXPfromBarbarians": 10e308,
     "baseCityBombardRange": 4,
     "cityWorkRange": 8,
-    "cityExpandRange", 10    
+    "cityExpandRange": 10    
   }
 }
